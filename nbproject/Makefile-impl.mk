@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=xpress-same70q21.X
+PROJECTNAME=xpress-same70q21
 
 # Active Configuration
 DEFAULTCONF=default

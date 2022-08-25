@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <executable name="dist/default/production/xpress-same70q21.X.production.elf">
+  <executable name="dist/default/production/xpress-same70q21.production.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>2097152</length>
+      <used>1344</used>
+      <free>2095808</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>393216</length>
+      <used>132</used>
+      <free>393084</free>
+    </memory>
   </executable>
 </project>
